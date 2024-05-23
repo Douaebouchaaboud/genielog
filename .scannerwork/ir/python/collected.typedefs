@@ -1,0 +1,7 @@
+,
+app.models.Productdjango.db.models.Model0
+app.models.UserProfiledjango.db.models.Model*
+app.models.Orderdjango.db.models.ModelG
+%app.migrations.0001_initial.Migrationdjango.db.migrations.Migration9
+app.admin.ProductAdmindjango.contrib.admin.ModelAdmin7
+app.admin.OrderAdmindjango.contrib.admin.ModelAdmin
